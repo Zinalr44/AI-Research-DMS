@@ -1,1 +1,2 @@
-# AI-Research-DMS
+AI-Powered Autonomous Research & Decision-Making System (AR-DMS)
+Developed an AI-driven research and decision-making system that automates data extraction, summarization, and insight generation from PDFs, web content, and images. Integrated FastAPI, OCR (pytesseract, pdf2image), NLP (LangChain, Hugging Face), and AI-powered search (FAISS) to enable intelligent data processing, structured report generation, and context-aware search, enhancing research efficiency and decision-making capabilities.
